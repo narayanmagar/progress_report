@@ -1,75 +1,60 @@
-AdminBSB - Material Design
-=======================
-[![npm version](https://img.shields.io/npm/v/adminbsb-materialdesign.svg)](https://www.npmjs.com/package/adminbsb-materialdesign)
-![Bower version](https://img.shields.io/bower/v/adminbsb-materialdesign.svg)
+# Jeweler
+Classic style free Bootstrap admin dashboard template.
 
-**AdminBSB - Material Design is a fully responsive and free admin template.** It was developed with [Bootstrap 3.x Framework](http://getbootstrap.com) and [Google Material Design](https://material.google.com) of powers.
+# Preview
 
-It's really easy to customize and usage. You can use for from 320px to large resolution pixels of new generation screens and mobile devices. (**Fully Responsive Material Design**)
+![Jeweler admin dashboard template preview](https://colorlib.com/wp/wp-content/uploads/sites/2/jaweler-free-classic-admin-panel-template-1.jpg)
 
-Looking for Premium Templates?
-----------------
-**If you need more features please visit portfolio of mine which page link is [https://themeforest.net/user/gurayyarar/portfolio](http://bit.ly/2oPFpmQ)**
+# Included technology
 
-Demo
-----------------
-You can check the website preview with **[this link](https://gurayyarar.github.io/AdminBSBMaterialDesign/)**  
+## Fonts
+- Google Fonts
 
-![AdminBSB - Free Admin Template With Material Design](https://raw.githubusercontent.com/gurayyarar/AdminBSBMaterialDesign/master/images/screenshot.png)
+## Icons
+- Font Awesome
 
-Installation
-----------------
-You can choose one from multiple ways for installation.
+## Scripts
+- Peity Charts
+- Sparklines
+- Scrollbar
+- TouchSpin
+- Data Table
+- JsTree
+- Skycons
+- Password Meter
+- PDF Viewer
+- Mapael
+- jvectormap
+- RangeSlider
+- Cropper
+- Data Map
+- CodeMirror
+- Chosen
+- C3 And D3
+- datetimepicker
+- x-editable
+- dropzonejs
+- form Validation
+- form Validation
+- masked input
+- mockjax
+- lobibox
+- summernote
+- editable
 
-**GitHub**
-- Fork the repository ([here is the guide](https://help.github.com/articles/fork-a-repo/)).
-- Clone to your machine
-```
-git clone https://github.com/gurayyarar/AdminBSBMaterialDesign.git
-```
+### Changelog
+#### V 1.0.0
+Initial Release
+### Authors
+[Colorlib](https://colorlib.com)
 
-**npm**
-```
-npm install adminbsb-materialdesign
-```
+### More info
+- [Bootstrap admin dashboards](https://colorlib.com/wp/free-bootstrap-admin-dashboard-templates/)
+- [Angular dashboards](https://colorlib.com/wp/angularjs-admin-templates/)
+- [Free Admin Dashboards](https://colorlib.com/wp/free-html5-admin-dashboard-templates/)
+- [Website Templates](https://colorlib.com/wp/templates/)
+- [WordPress Themes](https://colorlib.com/wp/free-wordpress-themes/)
 
-**bower**
-```
-bower install adminbsb-materialdesign
-```
+### License
 
-Documentation
-----------
-Visit the **[documentation](https://gurayyarar.github.io/AdminBSBMaterialDesign/documentation/)**
-
-Browser Support
-----------
-- IE 10 +
-- Microsoft Edge (Latest)
-- Mozilla Firefox (Latest)
-- Google Chrome (Latest)
-- Opera (Latest)
-- Safari (Latest)
-
-Change Logs
-----------
-You can display all release notes with **[this link](https://gurayyarar.github.io/AdminBSBMaterialDesign/pages/changelogs.html)**
-
-
-FAQ
-===
-**Can I use this template for personal or commercial websites/web projects?**  
-Sure, you can use both of personal and commercial websites/web projects.
-
-**Is the attribution link required?**  
-No, not required. (Though very much appreciated)
-
-License
-----------
-**AdminBSB - Material Design** is an open source project that is licensed under the [MIT license](http://opensource.org/licenses/MIT).
-
-Donations
-----------
-Donations are **greatly appreciated!**
-
-**[BUY ME A COFFEE](http://bit.ly/2yEjtx5)**
+Jeweler is licensed under The MIT License (MIT). Which means that you can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the final products. But you always need to state that Colorlib is the original author of this template.
